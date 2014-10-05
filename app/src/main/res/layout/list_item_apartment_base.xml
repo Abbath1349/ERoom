@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/li_apartment_base_tw_district"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/li_apartment_base_district_size" />
+
+        <TextView
+            android:id="@+id/li_apartment_base_tw_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/li_apartment_base_tw_district"
+            android:textColor="@color/navy"
+            android:textSize="@dimen/li_apartment_base_address_size" />
+
+        <TextView
+            android:id="@+id/li_apartment_base_tw_resourse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/red"
+            android:textSize="@dimen/li_apartment_base_resource_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/li_apartment_base_tw_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/li_apartment_base_tw_resourse"
+            android:textColor="@color/black"
+            android:textSize="@dimen/li_apartment_base_price_size" />
+    </RelativeLayout>
+</LinearLayout>

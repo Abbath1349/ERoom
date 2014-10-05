@@ -1,0 +1,127 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ma_i_want_rent" />
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/ma_rb_rent_apartment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/ma_to_rent_apartment" />
+
+        <RadioButton
+            android:id="@+id/ma_rb_rent_room"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ma_to_rent_room" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ma_for_price" />
+
+        <EditText
+            android:id="@+id/ma_et_price_low"
+            android:layout_width="@dimen/am_et_price_horizontaly"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ma_from_to" />
+
+        <EditText
+            android:id="@+id/ma_et_price_high"
+            android:layout_width="@dimen/am_et_price_horizontaly"
+            android:layout_height="wrap_content"
+            android:inputType="numberSigned" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ma_number_of_rooms" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ToggleButton
+            android:id="@+id/ma_btn_apartment_one"
+            style="@style/MainScreenButton.RoomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="@string/tr_one"
+            android:textOn="@string/tr_one" />
+
+        <ToggleButton
+            android:id="@+id/ma_btn_apartment_two"
+            style="@style/MainScreenButton.RoomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="@string/tr_two"
+            android:textOn="@string/tr_two" />
+
+        <ToggleButton
+            android:id="@+id/ma_btn_apartment_three"
+            style="@style/MainScreenButton.RoomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="@string/tr_three"
+            android:textOn="@string/tr_three" />
+
+        <ToggleButton
+            android:id="@+id/ma_btn_apartment_four"
+            style="@style/MainScreenButton.RoomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="@string/tr_four"
+            android:textOn="@string/tr_four" />
+
+        <ToggleButton
+            android:id="@+id/ma_btn_apartment_five_and_more"
+            style="@style/MainScreenButton.RoomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="@string/tr_fine_and_more"
+            android:textOn="@string/tr_fine_and_more" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/ma_btn_districts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ma_districts" />
+
+    <TextView
+        android:id="@+id/ma_tv_districts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/ma_btn_find"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ma_find" />
+</LinearLayout>

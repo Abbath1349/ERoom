@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ERoom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="e1_base_link">http://arenda.e1.ru/snyat</string>
+
+    <!-- e1 real estate tyoes -->
+    <string name="e1_room">komnata</string>
+    <string name="e1_apartment"></string>
+
+    <!-- e1 apartment types -->
+    <string name="e1_apartment_one">1</string>
+    <string name="e1_apartment_two">2</string>
+    <string name="e1_apartment_three">3</string>
+    <string name="e1_apartment_four">4</string>
+    <string name="e1_apartment_five_and_more">5,6</string>
+
+    <!-- e1 period types -->
+    <string name="e1_long">dlitelniy</string>
+    <string name="e1_day">posutochno</string>
+    <string name="e1_hour">chasi</string>
+
+    <!-- e1 district types -->
+    <string name="e1_avtovokzal">avtovokzal</string>
+    <string name="e1_academichesky">akademicheskij</string>
+    <string name="e1_botanichesky">botanika</string>
+    <string name="e1_viz">viz</string>
+    <string name="e1_vokzalniy">"vokzal'ny'j"</string>
+    <string name="e1_vtuzgorodock">vtuzgorodok</string>
+    <string name="e1_gorniyshit">"gorny'j_shchit"</string>
+    <string name="e1_elizavet">elizavet</string>
+    <string name="e1_jbi">zhbi</string>
+    <string name="e1_jeleznodorojniy">"zheleznodorozhny'j"</string>
+    <string name="e1_zavokzalniy">"zavokzal'ny'j"</string>
+    <string name="e1_zarechniy">"zarechny'j"</string>
+    <string name="e1_izoplit">izoplit</string>
+    <string name="e1_istok">istok</string>
+    <string name="e1_kalinovskiy">kalinovskij</string>
+    <string name="e1_koltsovo">"kol'tscovo"</string>
+    <string name="e1_kompressorniy">"kompressorny'j"</string>
+    <string name="e1_krasnolesie">"krasnoles'e"</string>
+    <string name="e1_lechebniy">"lechebny'j"</string>
+    <string name="e1_medniy">"medny'j"</string>
+    <string name="e1_new_sortirovka">n.sortirovka</string>
+    <string name="e1_nizneisetsky">nizhneisetskij</string>
+    <string name="e1_palniks">palniks</string>
+    <string name="e1_parkoviy">"parkovy'j"</string>
+    <string name="e1_pionersky">pionerskij</string>
+    <string name="e1_ptizefabrica">ptitscefabrika</string>
+    <string name="e1_old_sortirovka">s.sortirovka</string>
+    <string name="e1_sadoviy">"sadovy'j"</string>
+    <string name="e1_sem_kluchey">"sem'_klyuchej"</string>
+    <string name="e1_sibirsky">sibirskij</string>
+    <string name="e1_sinie_kamny">sinie_kamni</string>
+    <string name="e1_sovhoz">sovkhoz</string>
+    <string name="e1_unz">untsc</string>
+    <string name="e1_uktus">uktus</string>
+    <string name="e1_uralmash">uralmash</string>
+    <string name="e1_himmash">khimmash</string>
+    <string name="e1_center">tscentr</string>
+    <string name="e1_vtorchermet">vtorchermet</string>
+    <string name="e1_chkalovsky">chkalovskij</string>
+    <string name="e1_chusovskoe_ozero">chusovskoe_ozero</string>
+    <string name="e1_shartash">shartash</string>
+    <string name="e1_shartashskiy_rinok">"shartashskij_ry'nok"</string>
+    <string name="e1_shinniy">"shinny'j"</string>
+    <string name="e1_shirokaa_rechka">shirokaya_rechka</string>
+    <string name="e1_chuvakish">shuvakish</string>
+    <string name="e1_elmash">"e'l'mash"</string>
+    <string name="e1_ugo_zapadniy">"yugo-zapadny'j"</string>
+    <string name="e1_yuzniy">"yuzhny'j"</string>
+
+    <!-- district names -->
+    <string name="avtovokzal">Автовокзал</string>
+    <string name="academichesky">Академический</string>
+    <string name="botanichesky">Ботаника</string>
+    <string name="viz">Виз</string>
+    <string name="vokzalniy">Вокзальный</string>
+    <string name="vtuzgorodock">Втузгородок</string>
+    <string name="gorniyshit">Горный щит</string>
+    <string name="elizavet">Елизавет</string>
+    <string name="jbi">ЖБИ</string>
+    <string name="jeleznodorojniy">Железодорожный</string>
+    <string name="zavokzalniy">Завокзальный</string>
+    <string name="zarechniy">Заречный</string>
+    <string name="izoplit">Изоплит</string>
+    <string name="istok">Исток</string>
+    <string name="kalinovskiy">Калиновский</string>
+    <string name="koltsovo">Кольцово</string>
+    <string name="kompressorniy">Компрессорный</string>
+    <string name="krasnolesie">Краснолесье</string>
+    <string name="lechebniy">Лечебный</string>
+    <string name="medniy">Медный</string>
+    <string name="new_sortirovka">Новая сортировка</string>
+    <string name="nizneisetsky">Нижнеисетский</string>
+    <string name="palniks">Палникс</string>
+    <string name="parkoviy">Парковый</string>
+    <string name="pionersky">Пионерский</string>
+    <string name="ptizefabrica">Птицефабрика</string>
+    <string name="old_sortirovka">Старая сортировка</string>
+    <string name="sadoviy">Садовый</string>
+    <string name="sem_kluchey">Семь ключей</string>
+    <string name="sibirsky">Сибирский</string>
+    <string name="sinie_kamny">Синие камни</string>
+    <string name="sovhoz">Совхоз</string>
+    <string name="unz">УНЦ</string>
+    <string name="uktus">Уктус</string>
+    <string name="uralmash">Уралмаш</string>
+    <string name="himmash">Химмаш</string>
+    <string name="center">Центр</string>
+    <string name="vtorchermet">Вторчермет</string>
+    <string name="chkalovsky">Чкаловский</string>
+    <string name="chusovskoe_ozero">Чусовское озеро</string>
+    <string name="shartash">Шарташ</string>
+    <string name="shartashskiy_rinok">Шарташский рынок</string>
+    <string name="shinniy">Шинный</string>
+    <string name="shirokaa_rechka">Широкая речка</string>
+    <string name="chuvakish">Шувакиш</string>
+    <!-- todo refactor -->
+    <string name="elmash">Эльмаш</string>
+    <string name="ugo_zapadniy">Юго-западный</string>
+    <string name="yuzniy">Южный</string>
+
+    <!-- Main Activity Strings -->
+    <string name="ma_i_want_rent">Я хочу снять</string>
+    <string name="ma_to_rent_apartment">Квартиру</string>
+    <string name="ma_to_rent_room">Комнату</string>
+    <string name="ma_for_price">По цене</string>
+    <string name="ma_from_to">-</string>
+    <string name="ma_number_of_rooms">Количество комнат</string>
+    <string name="ma_districts">Районы</string>
+    <string name="ma_find">Найти</string>
+
+    <!-- Type Of rooms -->
+    <string name="tr_one">1</string>
+    <string name="tr_two">2</string>
+    <string name="tr_three">3</string>
+    <string name="tr_four">4</string>
+    <string name="tr_fine_and_more">5+</string>
+
+    <!-- dialogs -->
+    <string name="select_district">Выберите район</string>
+    <string name="title_activity_apartment_list">Найденные результаты</string>
+    <string name="loading">Загрузка...</string>
+    <string name="ok">Ok</string>
+
+    <!-- toasts -->
+    <string name="nothing_found">Ничего не найдено</string>
+</resources>

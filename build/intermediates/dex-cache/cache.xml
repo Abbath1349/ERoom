@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-a6cec5d3faae1de77ba5a954944d81846a74ca02.jar"
+        jar="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-68650639c34c27eddc34c83fd17ba1ded5b86db0.jar"
+        jar="C:\Android\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\butterknife-5.1.2-3adc26d84a247fa0ad831608ce0ec6213ddb33b3.jar"
+        jar="C:\Users\Dmitry\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.2\daf5472b0df6dabaceb6ad755b3812535863965a\butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\classes-58a2698873c77d0abca510c2e333863243d4309a.jar"
+        jar="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\dagger-1.2.2-ab5ffdddc1c52f8d142c8d5a3c119578c36ac737.jar"
+        jar="C:\Users\Dmitry\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.2.2\e8f912ee19ad84958510883ea191135276b091f8\dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\classes-280bd42cda0db67cdbb0223c9f7563a8c85bb1b9.jar"
+        jar="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2-91d9617eaf86816e713ceb0139c2c2296da6fa5e.jar"
+        jar="C:\Users\Dmitry\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.2\d7e275ba05aa380ca254f72d0c0ffebaedc3adcf\jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf"/>
+    <item
+        dex="C:\Android\MyProjects\eroomV2\ERoom\app\build\intermediates\pre-dexed\debug\javax.inject-1-467e2f6c014a24306bbe2aa6fddefcefe7c1993f.jar"
+        jar="C:\Users\Dmitry\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38"/>
+
+</pre-dex-items>
