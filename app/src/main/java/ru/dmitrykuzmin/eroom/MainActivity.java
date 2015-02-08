@@ -162,6 +162,7 @@ public class MainActivity extends ActionBarActivity implements IDistrictObserver
         filter.setPriceHigh(StringUtils.isNullOrEmpty(priceHigh) ? null : Integer.parseInt(priceHigh));
         Intent intent = new Intent(MainActivity.this, ApartmentListActivity.class);
         startActivity(intent);
+        // test
     }
 
     @Override
